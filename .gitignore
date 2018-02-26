@@ -1,1 +1,9 @@
 data/
+submissions/
+.DS_Store  
+tmp/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__
+*/__pycache__/*
+.idea/
